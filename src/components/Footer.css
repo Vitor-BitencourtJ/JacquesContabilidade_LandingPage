@@ -1,0 +1,22 @@
+/* Footer.css */
+.footer-container {
+  background: #1a202c;
+  color: #edf2f7;
+  padding: 2rem;
+  text-align: center;
+}
+
+.social-media {
+  margin-bottom: 1rem;
+}
+
+.social-media a {
+  color: #edf2f7;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.social-media a:hover {
+  color: #4299e1;
+}

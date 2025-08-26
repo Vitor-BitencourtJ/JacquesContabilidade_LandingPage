@@ -1,0 +1,33 @@
+/* About.css */
+.about-container {
+  padding: 5rem 2rem;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about-container h2 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: #edf2f7;
+}
+
+.about-container p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #edf2f7;
+}
+
+@media screen and (max-width: 768px) {
+  .about-container {
+    padding: 3rem 1rem;
+  }
+
+  .about-container h2 {
+    font-size: 2rem;
+  }
+
+  .about-container p {
+    font-size: 1rem;
+  }
+}
