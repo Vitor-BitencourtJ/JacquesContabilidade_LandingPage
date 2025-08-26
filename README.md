@@ -46,6 +46,6 @@ npm start
 ### CSS3
 
 ## 📌 Sobre
-### Este site foi desenvolvido para [Nome do Escritório de Contabilidade], com foco em apresentar serviços, informações de contato e credibilidade profissional.
+### Este site foi desenvolvido para Jacques contabilidade, com foco usar o site como exemplo para apresentar para meu clientes de freelancer.
 
 
